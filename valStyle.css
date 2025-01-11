@@ -19,11 +19,10 @@ img{
 
 .flex-parent {
     display: flex;
-  }
-  .jc-center {
     justify-content: center;
   }
-  button.margin-right {
+
+button.margin-right {
     margin-right: 20px;
   }
 
